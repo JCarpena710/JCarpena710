@@ -15,4 +15,6 @@ I am Jorge. I love to do web development and open to learning new technologies.
 ## 👋 Reach out to me 
 - 
 
-![Suyash github stats](https://github-readme-stats.vercel.app/api?username=JCapena710&hide=["issues"]&show_icons=true)
+![JCarpena710 github stats](https://github-readme-stats.vercel.app/api?username=JCapena710&hide=["issues"]&show_icons=true)
+
+![JCarpena710 GitHub stats](https://github-readme-stats.vercel.app/api?username=JCapena710&show_icons=true&theme=radical)

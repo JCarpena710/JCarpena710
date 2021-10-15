@@ -30,7 +30,7 @@ I am Jorge. I love to do web development and open to learning new technologies.
 
 -->
 
-<div align=center>
+<div align=center margin-top=20>
 
 ![](https://komarev.com/ghpvc/?username=jcarpena710) 
 

@@ -15,7 +15,7 @@ I am Jorge. I love to do web development and open to learning new technologies.
 ## 👋 Reach out to me 
 - 
 
-![JCarpena710 github stats](https://github-readme-stats.vercel.app/api?username=JCapena710&hide=["issues"]&show_icons=true)
+![JCarpena710's github stats](https://github-readme-stats.vercel.app/api?username=jcapena710&hide=["issues"]&show_icons=true)
 
 ![JCarpena710's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcarpena710&hide=contribs,prs)
 

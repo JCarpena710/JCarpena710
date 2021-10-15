@@ -8,7 +8,7 @@
 I am Jorge. I love to do web development and open to learning new technologies.
 
 ## 💻 Projects
-
+*
 
 ## ⚡ Technologies 
 - 

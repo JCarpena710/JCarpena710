@@ -29,5 +29,7 @@ I am Jorge. I love to do web development and open to learning new technologies.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcarpena710&layout=compact)
 
 <div align=center>
+
 ![](https://komarev.com/ghpvc/?username=JCarpena710) 
+
 </div>

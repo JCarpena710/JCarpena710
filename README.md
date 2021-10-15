@@ -22,4 +22,4 @@ I am Jorge. I love to do web development and open to learning new technologies.
 - 🖼️ Portfolio site: [Portfolio](https://suyash-srivastava.github.io/suyashsrivastava/Suyash)
 - 💎 Fun fact: You lose automatically if you dont try.
 
-![Suyash github stats](https://github-readme-stats.vercel.app/api?username=Suyash-Srivastava&hide=["issues"]&show_icons=true)
+![Suyash github stats](https://github-readme-stats.vercel.app/api?username=JCapena710&hide=["issues"]&show_icons=true)

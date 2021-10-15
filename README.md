@@ -15,6 +15,11 @@ I am Jorge. I love to do web development and open to learning new technologies.
 ## 👋 Reach out to me 
 - 
 
+## 👋 My Stats
+<div>
+
 ![JCarpena710's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcarpena710&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcarpena710&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/jcarpena710/github-readme-stats)
+  
+</div>

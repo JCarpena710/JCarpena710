@@ -7,7 +7,7 @@
 <img align='right' src='https://media.discordapp.net/attachments/399448944889036801/644551801588154398/398757aeeeda71f41e82091fcf0496f3.gif' width='300"'>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jorge.carpena@tecsup.edu.pe)](mailto:jorge.carpena@tecsup.edu.pe)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&bg_color=black&logoColor=white&link=mailto:jorge.carpena@tecsup.edu.pe)](mailto:jorge.carpena@tecsup.edu.pe)
 <!-- ![](https://komarev.com/ghpvc/?username=jcarpena710) -->
 
 I am Jorge. I love to do web development and open to learning new technologies.

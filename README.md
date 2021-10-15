@@ -4,6 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jorge.carpena@tecsup.edu.pe)](mailto:jorge.carpena@tecsup.edu.pe)
+![](https://komarev.com/ghpvc/?username=jcarpena710) 
 
 I am Jorge. I love to do web development and open to learning new technologies.
 
@@ -30,8 +31,3 @@ I am Jorge. I love to do web development and open to learning new technologies.
 
 -->
 
-<div align=center margin-top="20">
-
-![](https://komarev.com/ghpvc/?username=jcarpena710) 
-
-</div>

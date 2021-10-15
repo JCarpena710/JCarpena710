@@ -17,10 +17,13 @@ I am Jorge. I love to do web development and open to learning new technologies.
 
 ## 📊 My Stats
 <div align=center>
+<div>
 <img  witdh="150%" src="https://github-readme-stats.vercel.app/api?username=jcarpena710&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</div>
+<div>
 <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcarpena710&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />  
 </div>
-
+</div>
 <!--
 ![JCarpena710's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcarpena710&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 

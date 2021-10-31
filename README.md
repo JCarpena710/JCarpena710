@@ -1,4 +1,4 @@
-<h2> Hello welcome <<i>coders</i>> 🧑‍💻!!!</h2> 
+<h2> Hello welcome <<i>coders</i>> 🧑‍💻!!!</h2> <img src='https://komarev.com/ghpvc/?username=JCarpena710&color=ff69b4&style=flat-square'>
 
 <img align='right' src='https://media.discordapp.net/attachments/399448944889036801/644551801588154398/398757aeeeda71f41e82091fcf0496f3.gif' width='300"'>
 
@@ -20,7 +20,6 @@ I am Jorge. I love to do web development and open to learning new technologies.
 <div align=center>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jcarpena710&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcarpena710&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-<img src='https://komarev.com/ghpvc/?username=JCarpena710&color=ff69b4&style=flat-square'>
 </div>
 
 

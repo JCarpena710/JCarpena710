@@ -1,4 +1,4 @@
-<h2> Hello welcome <<i>coders</i>> 🧑‍💻!!!</h2> ![](https://komarev.com/ghpvc/?username=jcrpena710&color=dc143c)
+<h2> Hello welcome <<i>coders</i>> 🧑‍💻!!!</h2> ![](https://komarev.com/ghpvc/?username=JCrpena710&color=dc143c)
 
 <!--
 <img align='right' src='https://c.tenor.com/RM6DT0Tga2EAAAAC/elfen-lied-anime.gif' width='300"'>

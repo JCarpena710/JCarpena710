@@ -1,5 +1,4 @@
-<h2> Hello welcome <<i>coders</i>> 🧑‍💻!!!</h2> <img src='https://img.shields.io/github/watchers/jcarpena710/jcarpena710?style=social'>
-![](https://komarev.com/ghpvc/?username=jcarpena710) 
+<h2> Hello welcome <<i>coders</i>> 🧑‍💻!!!</h2> <img src='https://img.shields.io/github/watchers/jcarpena710/jcarpena710?style=social'> ![](https://komarev.com/ghpvc/?username=jcarpena710) 
 <!--
 <img align='right' src='https://c.tenor.com/RM6DT0Tga2EAAAAC/elfen-lied-anime.gif' width='300"'>
 -->

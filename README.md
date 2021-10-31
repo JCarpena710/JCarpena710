@@ -1,6 +1,4 @@
-<h2> Hello welcome <<i>coders</i>> 🧑‍💻!!!</h2> <img src='https://img.shields.io/github/watchers/jcarpena710/JCarpena710?style=flat-square'> 
-
-![](https://komarev.com/ghpvc/?username=JCarpena710?style=flat-square) 
+<h2> Hello welcome <<i>coders</i>> 🧑‍💻!!!</h2> ![](https://komarev.com/ghpvc/?username=jcrpena710&color=dc143c)
 
 <!--
 <img align='right' src='https://c.tenor.com/RM6DT0Tga2EAAAAC/elfen-lied-anime.gif' width='300"'>

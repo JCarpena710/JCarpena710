@@ -1,4 +1,4 @@
-<h2> Hello welcome <<i>coders</i>> 🧑‍💻!!! <!-- <img src='https://komarev.com/ghpvc/?username=JCarpena710&color=ff69b4&style=flat-square'> --> </h2>
+<h2> Hello welcome <<i>coders</i>> 🧑‍💻!!!  <img src='https://komarev.com/ghpvc/?username=JCarpena710&color=ff69b4&style=flat-square'>  </h2>
 
 <img align='right' src='https://media.discordapp.net/attachments/399448944889036801/644551801588154398/398757aeeeda71f41e82091fcf0496f3.gif' width='300"'>
 

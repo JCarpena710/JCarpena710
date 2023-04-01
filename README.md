@@ -1,6 +1,6 @@
 <h2> Hello welcome <<i>coders</i>> !!! 🧑‍💻</h2>
 
-<img align='right' src='https://i.pinimg.com/originals/1f/a7/68/1fa76803557415a955883b6d205e9a90.gif' width='300'>
+<img src='https://i.pinimg.com/originals/1f/a7/68/1fa76803557415a955883b6d205e9a90.gif' width='300'>
 
 <!--
 ## 💻 Projects

@@ -18,10 +18,10 @@ I am Jorge. I love to do web development and open to learning new technologies.
 ## 👋 Reach out to me 
 - 
 
-## 📊 My Stats
+<!--## 📊 My Stats
 <div align=center>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jcarpena710&show_icons=true&theme=github_dark" />
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcarpena710&layout=compact&theme=github_dark" />
-</div>
+</div>-->
 
 

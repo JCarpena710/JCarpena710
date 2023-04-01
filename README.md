@@ -4,11 +4,12 @@
 <img align='right' src='https://i.pinimg.com/originals/1f/a7/68/1fa76803557415a955883b6d205e9a90.gif' width='300'>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/jorge-carpena-vilchez)](linkedin.com/in/jorge-carpena-vilchez) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jorge.carpena@tecsup.edu.pe)](mailto:jorge.carpena@tecsup.edu.pe)
 
 I am Jorge. I love to do web development and open to learning new technologies.
 
+<!--
 ## 💻 Projects
 *
 
@@ -18,7 +19,7 @@ I am Jorge. I love to do web development and open to learning new technologies.
 ## 👋 Reach out to me 
 - 
 
-<!--## 📊 My Stats
+## 📊 My Stats
 <div align=center>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jcarpena710&show_icons=true&theme=github_dark" />
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcarpena710&layout=compact&theme=github_dark" />

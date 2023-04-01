@@ -4,7 +4,7 @@
 <img align='right' src='https://i.pinimg.com/originals/1f/a7/68/1fa76803557415a955883b6d205e9a90.gif' width='300'>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/jorge-carpena-vilchez)](linkedin.com/in/jorge-carpena-vilchez) 
+[![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/jorge-carpena-vilchez)](www.linkedin.com/in/jorge-carpena-vilchez) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jorge.carpena@tecsup.edu.pe)](mailto:jorge.carpena@tecsup.edu.pe)
 
 I am Jorge. I love to do web development and open to learning new technologies.
